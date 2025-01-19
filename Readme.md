@@ -40,10 +40,8 @@ This project analyzes crime data in Chicago to identify patterns, trends, and ho
 
 ## Tools Used
 
-- **Tableau Public**: Dashboard creation and visualization.
+- **Tableau**: Dashboard creation and visualization.
 - **Python**: Data cleaning and preprocessing.
-- **Tableau**: Exploratory data analysis.
-
 ---
 
 ## How to Use
