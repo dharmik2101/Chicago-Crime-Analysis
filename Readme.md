@@ -63,7 +63,7 @@ This project analyzes crime data in Chicago to identify patterns, trends, and ho
 
 ### 📊 Dashboard Overview
 
-![Dashboard Overview](Images/ChicagoCrimeDashboard.png)
+![Dashboard Overview](Images/Dashboard.png)
 
 ---
 
